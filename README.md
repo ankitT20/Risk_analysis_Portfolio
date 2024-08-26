@@ -6,7 +6,7 @@ Python program to download historical data CSV files of all 50 stocks of Nifty50
 **Amount to Invest in various stocks and plot a pie chart**
 
 ### Pre-requisite
->  Download the following file, Open and correct it (remove newline \n in column name)
+>  Download the following file, Open and correct it (remove newline \n in column name)  
 >  ```https://www.nseindia.com/api/equity-stockIndices?csv=true&index=NIFTY%2050```  
 >  Run ```Project.py```  
 
